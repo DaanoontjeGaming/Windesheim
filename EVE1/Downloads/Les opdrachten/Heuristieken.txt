@@ -1,0 +1,27 @@
+1.
+Recognition - Hoe vaak moet je klikken om bij informatie te komen?
+
+Help - Is er makkelijk ondersteuning te vinden?
+
+Consistency - Zijn er terugkomende essentiële onderdelen
+
+Error Prevention - Zijn er buttons die fouten kunnen veroorzaken?
+
+Freedom - Is de gebruiker in staat om zijn eigen gang te gaan?
+
+Minimalism - Is de hoeveelheid tekst klein genoeg om wel alle info
+te geven maar de gebruiker niet te laten afhaken
+
+2.
+Recognition - Informatie is snel te vinden met 1 klik
+
+Help - Er is op elke pagina een HELP button die je kan aanklikken
+
+Consistency - Navigatie op elke pagina te vinden
+
+Error prevention - Er zijn niet veek buttons die onverwachte problemen
+zouden kunnen veroorzaken
+
+Freedom - De gebruiker kan overal heen navigeren waar die moet zijn
+
+Minimalism - Er is niet veel tekst

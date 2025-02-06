@@ -1,0 +1,8 @@
+1. Je bent net klaar met de eerste attractie en wilt zien waar de kortste wachttijd is.
+Opdracht: Vind de attractie met de kortste wachttijd op de planner.
+
+2. Het is lunchtijd en je hebt zin in iets te eten.
+Opdracht: Vind alle dichtstbijzijnde eetgelegenheden in het park.
+
+3. Je hebt alle attracties gehad maar er is nog tijd over voor het park sluit.
+Opdracht: Zoek iets leuks te doen anders dan attracties op de planner.

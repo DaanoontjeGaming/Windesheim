@@ -1,0 +1,17 @@
+Je gaat zometeen een ontwerp testen door een paar vooraf bedachte
+opdrachten uit te voeren. Deze test duur ongeveer 5 minuten. Dit
+zijn de 3 scenario's van de test.
+Scenario 1: "Je bent net klaar met de eerste attractie en wilt zien
+waar de kortste wachttijd is."
+Scenario 2: "Het is lunchtijd en je hebt zin in iets te eten."
+Scenario 3: "Je hebt alle attracties gehad maar er is nog tijd over
+voor het park sluit."
+Dit zijn de opdrachten bij elk scenario: 
+Opdracht 1: Vind de attractie met de kortste wachttijd
+Opdracht 2: Vind alle eetgelegenheden in het park
+Opdracht 3: Zoek nog iets anders dan attracties wat te doen in het park
+Tijden deze test ben jij niet degene die getest wordt maar het ontwerp,
+dit houdt in dat er geen goed of fout is. Er worden een aantal heuristieken
+getest. Een paar voorbeelden: Recognition, Consistency, Help, Minimalism,
+Error prevention & Freedom. Het is belangrijk dat je hardop denkt en al je"
+gedachten uitspreekt tijdens deze test. Succes!
